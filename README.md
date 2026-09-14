@@ -117,7 +117,7 @@ Professional company website developed using ASP.NET Core.
 
 ## 📫 Connect With Me
 
-💼 **LinkedIn:** Add your LinkedIn profile here
+💼 **LinkedIn:** [Add your LinkedIn profile here](https://www.linkedin.com/in/sajidabbas6024)
 
 🌐 **Portfolio:** [https://sajidabbas.netlify.app](https://sajidabbas.netlify.app/)
 

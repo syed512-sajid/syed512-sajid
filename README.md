@@ -122,6 +122,38 @@ Professional company website developed using ASP.NET Core.
 🌐 **Portfolio:** [https://sajidabbas.netlify.app](https://sajidabbas.netlify.app/)
 
 💻 **GitHub:** [syed512-sajid](https://github.com/syed512-sajid)
+<h1 align="center">Hi 👋, I'm Sajid Abbas</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+Scalable+Web+%26+Desktop+Applications;Clean+Architecture+%26+REST+API+Development" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=syed512-sajid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  I’m a passionate <b>.NET Developer</b> focused on building reliable, scalable, and user-friendly web applications and business solutions.<br>
+  I enjoy turning business requirements into practical software solutions using modern Microsoft technologies.
+</p>
+
+---
+
+## 🚀 About Me
+
+```json
+{
+  "name"       : "Sajid Abbas",
+  "role"       : "Full Stack .NET Developer",
+  "location"   : "Lahore, Pakistan",
+  "email"      : "sajidabbas6024@gmail.com",
+  "portfolio"  : "sajidabbas.netlify.app",
+  "experience" : "3+ Years in C#, ASP.NET Core & SQL Server",
+  "openToWork" : true
+}
 
 ---
 

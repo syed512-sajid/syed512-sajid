@@ -2,42 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+Scalable+Web+%26+Desktop+Applications;Clean+Architecture+%26+REST+API+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+Scalable+Web+%26+Desktop+Solutions;Clean+Architecture+%26+REST+APIs" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syed512-sajid&label=Profile%20Views&color=00F7FF&style=flat-square" alt="Profile Views" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square" alt="Open to Work" />
-  <img src="https://komarev.com/ghpvc/?username=syed512-sajid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  I’m a passionate <b>.NET Developer</b> focused on building reliable, scalable, and user-friendly web applications and business solutions.<br>
-  I enjoy turning business requirements into practical software solutions using modern Microsoft technologies.
 </p>
 
 ---
-
-## 🚀 About Me
-
-```json
-{
-  "name"       : "Sajid Abbas",
-  "role"       : "Full Stack .NET Developer",
-  "location"   : "Lahore, Pakistan",
-  "email"      : "sajidabbas6024@gmail.com",
-  "portfolio"  : "sajidabbas.netlify.app",
-  "experience" : "3+ Years in C#, ASP.NET Core & SQL Server",
-  "openToWork" : true
-}
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.
-
-# Hi 👋, I'm Sajid Abbas
 
 ### .NET Developer | ASP.NET Core | C# | SQL Server
 
@@ -49,14 +24,14 @@ I enjoy turning business requirements into practical software solutions using mo
 
 ## 🚀 About Me
 
-* 💻 .NET Developer specializing in **C# and ASP.NET Core**
-* 🌐 Experienced with **ASP.NET Core MVC, Razor Pages & Blazor**
-* 🗄️ Working with **SQL Server, Stored Procedures & Dapper**
-* 🔐 Experience with authentication, authorization and role-based access
-* 📊 Building reporting and Excel export solutions
-* 📧 Working with email notifications and SMTP integrations
-* 🧩 Interested in clean architecture, reusable code and maintainable applications
-* 🚀 Continuously learning and improving my development skills
+- 💻 .NET Developer specializing in **C# and ASP.NET Core**
+- 🌐 Experienced with **ASP.NET Core MVC, Razor Pages & Blazor**
+- 🗄️ Working with **SQL Server, Stored Procedures & Dapper**
+- 🔐 Experience with authentication, authorization and role-based access
+- 📊 Building reporting and Excel export solutions
+- 📧 Working with email notifications and SMTP integrations
+- 🧩 Interested in clean architecture, reusable code and maintainable applications
+- 🚀 Continuously learning and improving my development skills
 
 ---
 
@@ -88,12 +63,12 @@ Interview management system built with ASP.NET Core, C#, Dapper and SQL Server.
 
 **Highlights:**
 
-* Interview scheduling and management
-* Questionnaire/template management
-* Interview result and scoring system
-* Applicant document handling
-* Email notification system
-* Role-based access
+- Interview scheduling and management
+- Questionnaire/template management
+- Interview result and scoring system
+- Applicant document handling
+- Email notification system
+- Role-based access
 
 🔗 [View Repository](https://github.com/syed512-sajid/AMS-Interviews)
 
@@ -105,13 +80,13 @@ ASP.NET Core MVC attendance and leave management system.
 
 **Highlights:**
 
-* Employee attendance tracking
-* Check-in / Check-out
-* Leave request management
-* Short Leave and Half Day support
-* Admin leave assignment
-* Attendance reports
-* Excel reporting
+- Employee attendance tracking
+- Check-in / Check-out
+- Leave request management
+- Short Leave and Half Day support
+- Admin leave assignment
+- Attendance reports
+- Excel reporting
 
 🔗 [View Repository](https://github.com/syed512-sajid/Attendance-System)
 
@@ -123,10 +98,10 @@ Server monitoring application for monitoring Moodle server uptime and generating
 
 **Highlights:**
 
-* Server uptime monitoring
-* Automated alerts
-* SQL Server integration
-* Desktop monitoring application
+- Server uptime monitoring
+- Automated alerts
+- SQL Server integration
+- Desktop monitoring application
 
 🔗 [View Repository](https://github.com/syed512-sajid/Moodle-Server-Monitor)
 
@@ -138,11 +113,11 @@ Professional company website developed using ASP.NET Core.
 
 **Highlights:**
 
-* Responsive company website
-* Careers section
-* Contact form
-* Application submission
-* Custom UI and branding
+- Responsive company website
+- Careers section
+- Contact form
+- Application submission
+- Custom UI and branding
 
 🔗 [View Repository](https://github.com/syed512-sajid/Vastek-Solutions-Website)
 
@@ -162,3 +137,8 @@ Professional company website developed using ASP.NET Core.
 
 💻 **GitHub:** [syed512-sajid](https://github.com/syed512-sajid)
 
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
